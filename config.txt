@@ -1,0 +1,12 @@
+# SensorAnalysisSetting
+SensorAnalysisSetting.graph_setting_id=undefined
+SensorAnalysisSetting.graph_setting_name='デフォルト'
+SensorAnalysisSetting.graph_setting_key='default'
+SensorAnalysisSetting.graph_unit='回'
+SensorAnalysisSetting.graph_coef=1
+SensorAnalysisSetting.graph_setting_fraction_digits=1
+SensorAnalysisSetting.graph_y_axis_max=10
+SensorAnalysisSetting.graph_y_axis_min=1
+SensorAnalysisSetting.is_enabled_graph_setting=true
+SensorAnalysisSetting.is_edit=false
+SensorAnalysisSetting.is_realtime=false
